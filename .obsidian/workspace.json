@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e892ed9375968cdc",
@@ -128,8 +129,17 @@
                 "file": "React/react-router.md"
               }
             }
+          },
+          {
+            "id": "d98a594a96cb49ec",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -147,7 +157,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8218578141a3a686",
+  "active": "d98a594a96cb49ec",
   "lastOpenFiles": [
     "Pasted image 20230117170506.png.md",
     "React/react-router.md",

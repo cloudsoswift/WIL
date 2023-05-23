@@ -71,16 +71,20 @@
 		- ex) '/welcome' 에 할당된 page 안에 '/welcome/to' 에 할당한 페이지 존재시, '/welcome/to' 로 이동하면 welcome 에 해당하는 페이지 + 안에 /to 에 해당하는 페이지 렌더링 됨.
 	- 또는 Route 컴포넌트 안에 또 다른 Route 넣어주는 방식도 됨.
 		```jsx
-			<Route path="/" element={<Navigate to="/welcome" />} />
+			<Route path="/welcome/*" element={<Welcome />}
+				<Route path="new-user" element={<p>Welcome, new User!</p>} />
+			</Route>
 		```
 		- 이 때, 해당 하위 컴포넌트가 들어갈 위치는 `<Outlet />`(from 'react-router-') 을 해당 부모 컴포넌트 내에서 지정해주면 알아서 하위 컴포넌트가 들어가짐.
 ## 사용자 Redirection
 - 특정한 경로로 이동했을 때, 다른 경로로 Redirection 시키고자 함.
 	- 해당 경로로 Route 만들어 놓고, 해당 Route element로  `<Navigate />` 컴포넌트(from 'react-router-dom') 만들고 `to` prop으로 redireciton 시킬 링크 할당해주면 해당 URL로 변경됨.
-		- ![[Pasted image 20230117164905.png]]
+		```jsx
+			<Route path="/" element={<Navigate to="/welcome" />} />
+		```
 - 알 수 없는 경로 ( Error 페이지 )
 	- Switch에 설정된 Route의 목록의 제일 마지막(후순위)에 `path='*'` 인 Route 설정.
-### 학습 해야 할 내용
+## 학습 해야 할 내용
 #### useLoader, Loader
 #### useFetcher, Fetcher
 # 코딩하다 겪은 것.
