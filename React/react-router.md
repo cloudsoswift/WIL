@@ -70,7 +70,9 @@
 		- 그리고 해당 Route는 Route를 포함한 페이지(컴포넌트)가 활성화 되지 않은 경우, 평가되지 않음.
 		- ex) '/welcome' 에 할당된 page 안에 '/welcome/to' 에 할당한 페이지 존재시, '/welcome/to' 로 이동하면 welcome 에 해당하는 페이지 + 안에 /to 에 해당하는 페이지 렌더링 됨.
 	- 또는 Route 컴포넌트 안에 또 다른 Route 넣어주는 방식도 됨.
-		- ![[Pasted image 20230117170506.png]]
+		```jsx
+			<Route path="/" element={<Navigate to="/welcome" />} />
+		```
 		- 이 때, 해당 하위 컴포넌트가 들어갈 위치는 `<Outlet />`(from 'react-router-') 을 해당 부모 컴포넌트 내에서 지정해주면 알아서 하위 컴포넌트가 들어가짐.
 ## 사용자 Redirection
 - 특정한 경로로 이동했을 때, 다른 경로로 Redirection 시키고자 함.
