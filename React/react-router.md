@@ -31,26 +31,26 @@
 			- Router에 의해 NavLink를 평가할 때나, 네비게이션 변경될 때 실행된다.
 			- 인자로 받은 값.isActive(ex. `props.isActive`)를 통해 활성화 되어 있는지 확인해 처리한다.
 ## 동적 라우트
-- Route를 통해 이동(컴포넌트 변경)시, 추가 값 넘기고 싶음
+- Route를 통해 이동(컴포넌트 변경)시, 추가 값 넘기고 싶은 경우에는?
 - => 동적 Path Segment 사용.
 	- **:세그먼트 이름**
-		- 예 
+		- 예시)
 		 ```jsx
 		 <Route path='/product-detail/:productId'>
 			 <ProductDetail />
 		 </Route>
 		```
-		- ... path='/링크/:세그먼트이름' 과 같이 사용
+		- `... path='/링크/:세그먼트이름'` 과 같이 사용
 		- 그리고 해당 링크로 이동해 렌더링 된 컴포넌트 안에서 동적 Segment에 접근 가능.
-- 동적 Path Segment(= Path Variable) 사용하기
-	- `useParams` (from `'react-router-dom'`)훅 사용
-		- 키-값 쌍을 가지는데, '키'는  페이지에 연결된 동적 세그먼트를 의미.
-			- params.*동적세그먼트이름* 의 형태로 사용
-			- ex) 위의 경우. 
-				```jsx
-				const params = useParam();
-				console.log(params.productId) 
-				```
+#### 동적 Path Segment(= Path Variable) 사용하기
+- `useParams` (from `'react-router-dom'`)훅 사용
+	- 키-값 쌍을 가지는데, '키'는  페이지에 연결된 동적 세그먼트를 의미.
+		- params.*동적세그먼트이름* 의 형태로 사용
+		- ex) 위의 경우. 
+			```jsx
+			const params = useParam();
+			console.log(params.productId) 
+			```
 ## 중첩되는 링크
 - 버전 5까지만 해도 exact 없으면 중첩되는거 다 렌더링 했는데, 6에서는 기본으로 exact 적용됨. 
 	- 경로의 시작부분 일치하면 활성화 시키는건 이제 경로 뒤에 * 추가해주면 됨.
