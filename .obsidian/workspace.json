@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/react-router.md",
+                "file": "Development/Javascript/React/Server Components.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e892ed9375968cdc",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/react-router.md",
+                "file": "Development/Javascript/React/Server Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/react-router.md",
+                "file": "Development/Javascript/React/Server Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/react-router.md"
+                "file": "Development/Javascript/React/Server Components.md"
               }
             }
           },
@@ -157,10 +156,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d98a594a96cb49ec",
+  "active": "8218578141a3a686",
   "lastOpenFiles": [
-    "Pasted image 20230117170506.png.md",
+    "Development/Javascript/React/에러.md",
+    "Development/Javascript/React/Server Components.md",
+    "Development/Javascript/Node.js/child_process.md",
+    "Development/Javascript/Nextjs/VSCode Snippet.md",
+    "Development/Javascript/Nextjs/Next.js 13 차이점.md",
+    "Development/Javascript/Nextjs/App Router.md",
+    "Development/Javascript/Docker/Next.js 프로젝트를 Docker에 올리기.md",
+    "Development/Javascript/Chakra_UI/Chakra_UI.md",
+    "Development/Javascript/Chart Visualization/D3.md",
+    "Development/Javascript/Chart Visualization/Chart.js.md",
+    "Development/Algorithm/무제 파일.md",
+    "Development/글 정리하기/핀다 UX 리서치.md",
+    "Development/글 정리하기/개발자의 지속가능한 성장 스킬.md",
+    "Development/글 정리하기/뱅크샐러드 UX 파고들기.md",
+    "Development/글 정리하기/토스-UX엔지니어가 있는 이유.md",
     "React/react-router.md",
+    "Pasted image 20230117170506.png.md",
     "Pasted image 20230117134321.png.md",
     "README.md"
   ]
