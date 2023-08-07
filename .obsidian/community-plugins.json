@@ -2,5 +2,6 @@
   "obsidian-kanban",
   "obsidian-admonition",
   "table-editor-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-show-file-path"
 ]
