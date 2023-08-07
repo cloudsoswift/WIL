@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "151ec5400409ccfe",
+        "id": "79efd8db8e0907f6",
         "type": "tabs",
         "children": [
           {
-            "id": "8218578141a3a686",
+            "id": "168408dd8c3a5b68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/Javascript/yarn/VS Code에서 module 찾지 못하는 error.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/Javascript/yarn/VS Code에서 module 찾지 못하는 error.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/Javascript/yarn/VS Code에서 module 찾지 못하는 error.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/Javascript/yarn/VS Code에서 module 찾지 못하는 error.md"
+                "file": "README.md"
               }
             }
           },
@@ -156,27 +156,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8218578141a3a686",
+  "active": "168408dd8c3a5b68",
   "lastOpenFiles": [
+    "Development/Algorithm/기초/리스트와 트리.md",
+    "README.md",
+    "Development/HTML Handbook.md",
+    "Development/Next.js Handbook.md",
+    "Development/Git Handbook.md",
+    "Development/Study/Node.js 교과서/첫 주차 - Node.js의 Thread에 대하여.md",
+    "Development/Javascript/Javascript Handbook.md",
+    "Development/Javascript/yarn/VS Code에서 module 찾지 못하는 error.md",
     "Development/attached/Pasted image 20230807005030.png",
     "Development/attached",
     "Development/새 폴더",
     "Development/Algorithm/기초/반복과 재귀.md",
     "Development/Algorithm/기초/순열, 조합, 부분집합.md",
-    "Development/Algorithm/기초/리스트와 트리.md",
-    "README.md",
     "Development/Javascript/Turbopack/Turbopack.md",
     "Development/Javascript/Nextjs/Next.js 13 의 차이점.md",
     "Development/Javascript/Nextjs/Next.js 13 차이점.md",
     "Development/Javascript/Nextjs/App Router.md",
-    "Development/Javascript/Javascript Handbook.md",
     "Development/Javascript/Chakra-UI/Chakra-UI.md",
-    "Development/Study/Node.js 교과서/첫 주차 - Node.js의 Thread에 대하여.md",
-    "Development/Git Handbook.md",
-    "Development/HTML Handbook.md",
-    "Development/Next.js Handbook.md",
     "Development/Project/토이프로젝트/취업시켜줘.md",
-    "Development/Javascript/yarn/VS Code에서 module 찾지 못하는 error.md",
     "Development/Javascript/Docker/Next.js 프로젝트를 Docker에 올리기.md",
     "Development/Javascript/Chart Visualization/Chart.js.md",
     "Development/Javascript/Chart Visualization/D3.md",
