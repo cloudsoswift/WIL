@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Development/Algorithm/기초/반복과 재귀.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Development/Algorithm/기초/반복과 재귀.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Development/Algorithm/기초/반복과 재귀.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Development/Algorithm/기초/반복과 재귀.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "168408dd8c3a5b68",
   "lastOpenFiles": [
-    "Development/Algorithm/기초/리스트와 트리.md",
     "README.md",
+    "Development/Algorithm/기초/리스트와 트리.md",
     "Development/HTML Handbook.md",
     "Development/Next.js Handbook.md",
     "Development/Git Handbook.md",
