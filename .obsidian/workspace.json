@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Development/Javascript/yarn/VS Code에서 module 찾지 못하는 error.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Development/Javascript/yarn/VS Code에서 module 찾지 못하는 error.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Development/Javascript/yarn/VS Code에서 module 찾지 못하는 error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Development/Javascript/yarn/VS Code에서 module 찾지 못하는 error.md"
               }
             }
           },
@@ -158,12 +158,17 @@
   },
   "active": "8218578141a3a686",
   "lastOpenFiles": [
-    "Development/Javascript/Turbopack/Turbopack.md",
+    "Development/attached/Pasted image 20230807005030.png",
+    "Development/attached",
+    "Development/새 폴더",
+    "Development/Algorithm/기초/반복과 재귀.md",
+    "Development/Algorithm/기초/순열, 조합, 부분집합.md",
+    "Development/Algorithm/기초/리스트와 트리.md",
     "README.md",
+    "Development/Javascript/Turbopack/Turbopack.md",
     "Development/Javascript/Nextjs/Next.js 13 의 차이점.md",
     "Development/Javascript/Nextjs/Next.js 13 차이점.md",
     "Development/Javascript/Nextjs/App Router.md",
-    "Development/Algorithm/기초/순열, 조합, 부분집합.md",
     "Development/Javascript/Javascript Handbook.md",
     "Development/Javascript/Chakra-UI/Chakra-UI.md",
     "Development/Study/Node.js 교과서/첫 주차 - Node.js의 Thread에 대하여.md",
@@ -175,14 +180,11 @@
     "Development/Javascript/Docker/Next.js 프로젝트를 Docker에 올리기.md",
     "Development/Javascript/Chart Visualization/Chart.js.md",
     "Development/Javascript/Chart Visualization/D3.md",
-    "Development/Algorithm/기초/반복과 재귀.md",
     "Development/Algorithm/리스트와 트리.md",
     "Development/Algorithm/리스트와.md",
-    "Development/Algorithm/기초/리스트와 트리.md",
     "Development/Javascript/React/react-router.md",
     "Development/Javascript/Rollup/Rollup.md",
     "Development/Javascript/Redux/Redux-saga.md",
-    "Development/Javascript/React-Query/Optimistic Update.md",
-    "Development/Javascript/React/Server Components.md"
+    "Development/Javascript/React-Query/Optimistic Update.md"
   ]
 }
