@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "79efd8db8e0907f6",
+        "id": "3a9880e366317674",
         "type": "tabs",
         "children": [
           {
-            "id": "168408dd8c3a5b68",
+            "id": "d59c9c099e315901",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,10 +156,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "168408dd8c3a5b68",
+  "active": "d59c9c099e315901",
   "lastOpenFiles": [
-    "Development/Java/상속과 메모리 할당.md",
+    "Development/Javascript/Nextjs/프로젝트-구성과-파일-배치.md",
+    "Development/Javascript/Nextjs/App Router.md",
+    "Development/Java/초기화.md",
+    "Development/Javascript/Nextjs/무제 폴더",
     "Development/Javascript/반복문(미완).md",
+    "Development/Java/상속과 메모리 할당.md",
     "README.md",
     "Development/Javascript/Nextjs/Next.js 13 차이점.md",
     "Development/Javascript/Typescript/에러 정리.md",
@@ -180,14 +184,11 @@
     "Development/새 폴더",
     "Development/Algorithm/기초/순열, 조합, 부분집합.md",
     "Development/Javascript/Nextjs/Next.js 13 의 차이점.md",
-    "Development/Javascript/Nextjs/App Router.md",
     "Development/Javascript/Chakra-UI/Chakra-UI.md",
     "Development/Project/토이프로젝트/취업시켜줘.md",
     "Development/Javascript/Docker/Next.js 프로젝트를 Docker에 올리기.md",
     "Development/Javascript/Chart Visualization/Chart.js.md",
     "Development/Javascript/Chart Visualization/D3.md",
-    "Development/Algorithm/리스트와 트리.md",
-    "Development/Algorithm/리스트와.md",
-    "Development/Javascript/React/react-router.md"
+    "Development/Algorithm/리스트와 트리.md"
   ]
 }
