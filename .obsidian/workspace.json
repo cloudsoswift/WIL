@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/Java/상속과 메모리 할당.md",
+                "file": "Development/Javascript/반복문(미완).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/Java/상속과 메모리 할당.md",
+                "file": "Development/Javascript/반복문(미완).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/Java/상속과 메모리 할당.md",
+                "file": "Development/Javascript/반복문(미완).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/Java/상속과 메모리 할당.md"
+                "file": "Development/Javascript/반복문(미완).md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "168408dd8c3a5b68",
   "lastOpenFiles": [
-    "README.md",
     "Development/Java/상속과 메모리 할당.md",
+    "Development/Javascript/반복문(미완).md",
+    "README.md",
     "Development/Javascript/Nextjs/Next.js 13 차이점.md",
     "Development/Javascript/Typescript/에러 정리.md",
     "Development/Java",
@@ -187,7 +188,6 @@
     "Development/Javascript/Chart Visualization/D3.md",
     "Development/Algorithm/리스트와 트리.md",
     "Development/Algorithm/리스트와.md",
-    "Development/Javascript/React/react-router.md",
-    "Development/Javascript/Rollup/Rollup.md"
+    "Development/Javascript/React/react-router.md"
   ]
 }
