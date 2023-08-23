@@ -11,6 +11,9 @@ What I Learned. 남는 것은 기록 뿐
 - [순열, 조합, 부분집합](Development/Algorithm/기초/순열,%20조합,%20부분집합.md)
 - [스택과 큐](Development/Algorithm/기초/스택과%20큐.md)
 
+# Java
+---
+- [상속과 메모리 할당](Development/Java/상속과%20메모리%20할당.md)
 # Javascript
 ---
 ## Next.js

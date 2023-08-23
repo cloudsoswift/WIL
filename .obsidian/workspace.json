@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/Algorithm/기초/반복과 재귀.md",
+                "file": "Development/Java/상속과 메모리 할당.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/Algorithm/기초/반복과 재귀.md",
+                "file": "Development/Java/상속과 메모리 할당.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/Algorithm/기초/반복과 재귀.md",
+                "file": "Development/Java/상속과 메모리 할당.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/Algorithm/기초/반복과 재귀.md"
+                "file": "Development/Java/상속과 메모리 할당.md"
               }
             }
           },
@@ -159,6 +159,14 @@
   "active": "168408dd8c3a5b68",
   "lastOpenFiles": [
     "README.md",
+    "Development/Java/상속과 메모리 할당.md",
+    "Development/Javascript/Nextjs/Next.js 13 차이점.md",
+    "Development/Javascript/Typescript/에러 정리.md",
+    "Development/Java",
+    "Development/Javascript/Turbopack/Turbopack.md",
+    "Development/Javascript/React/에러 정리.md",
+    "Development/Algorithm/기초/반복과 재귀.md",
+    "Development/Javascript/Typescript",
     "Development/Algorithm/기초/리스트와 트리.md",
     "Development/HTML Handbook.md",
     "Development/Next.js Handbook.md",
@@ -169,11 +177,8 @@
     "Development/attached/Pasted image 20230807005030.png",
     "Development/attached",
     "Development/새 폴더",
-    "Development/Algorithm/기초/반복과 재귀.md",
     "Development/Algorithm/기초/순열, 조합, 부분집합.md",
-    "Development/Javascript/Turbopack/Turbopack.md",
     "Development/Javascript/Nextjs/Next.js 13 의 차이점.md",
-    "Development/Javascript/Nextjs/Next.js 13 차이점.md",
     "Development/Javascript/Nextjs/App Router.md",
     "Development/Javascript/Chakra-UI/Chakra-UI.md",
     "Development/Project/토이프로젝트/취업시켜줘.md",
@@ -183,8 +188,6 @@
     "Development/Algorithm/리스트와 트리.md",
     "Development/Algorithm/리스트와.md",
     "Development/Javascript/React/react-router.md",
-    "Development/Javascript/Rollup/Rollup.md",
-    "Development/Javascript/Redux/Redux-saga.md",
-    "Development/Javascript/React-Query/Optimistic Update.md"
+    "Development/Javascript/Rollup/Rollup.md"
   ]
 }
