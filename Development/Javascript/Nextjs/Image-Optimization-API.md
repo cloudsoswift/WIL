@@ -1,0 +1,4 @@
+# 서론
+[The HTTP Archive의 웹 연감(Web Almanc)](https://almanac.httparchive.org/en/2022/page-weight#content-type-and-file-formats)에 따르면 이미지는 [일반적인 웹 사이트의 페이지를 무겁게 만드는데 큰 비중을 차지](https://almanac.httparchive.org/en/2022/page-weight#image-bytes)하며, [<code><b>LCP</b></code> 성능에 상당한 영향]을 미칠 수 있습니다.
+- **`LCP(최대 콘텐츠풀 페인트, Largest Contentful Paint)`** : 페이지가 <mark style="background: #FFF3A3A6;"><i>처음 로드를 시작한 시점</i></mark>을 기준으로, 페이지의 메인 콘텐츠가 로드 되었을 만한 시점(= *viewport내 <b><code>가장 큰 이미지 또는 텍스트 블록</code></b>의 렌더링 시간*)을 표시하는 메트릭. LCP가 빠르면 사용자가 <mark style="background: #FFF3A3A6;">페이지를 사용할 수 있다고 판단</mark>하는데 도움이 됨.
+	- [Largest Contentful Paint(최대 콘텐츠풀 페인트, LCP) (web.dev)](https://web.dev/i18n/ko/lcp/)
